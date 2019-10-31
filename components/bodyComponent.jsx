@@ -30,3 +30,4 @@ class BodyComponent extends React.Component{
 }
 
 export default BodyComponent;
+

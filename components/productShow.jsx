@@ -64,3 +64,4 @@ class ProductShow extends React.Component{
       }
 
 export default ProductShow;
+
